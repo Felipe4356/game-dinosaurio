@@ -248,5 +248,9 @@ $(document).ready(function(){
 });
 
 
+//opcion para dar click en la pantalla y saltar
+document.addEventListener("click", HandleKeyDown);
+
+
 
 
