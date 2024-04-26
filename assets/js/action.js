@@ -240,7 +240,7 @@ function IsCollision(a, b, paddingTop, paddingRight, paddingBottom, paddingLeft)
 }
 
 
-//para p//
+
 $(document).ready(function(){
     $("#btn").click(function(){
         location.reload();
@@ -248,8 +248,6 @@ $(document).ready(function(){
 });
 
 
-//opcion para dar click en la pantalla y saltar
-document.addEventListener("click", HandleKeyDown);
 
 
 
